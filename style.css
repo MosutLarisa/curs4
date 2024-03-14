@@ -31,3 +31,10 @@
     border-radius: 2px;
     border-width: 0;
 }
+
+.orange-button{
+    background-color: rgb(220, 131, 23);
+    color: white;
+    border-radius: 2px;
+    border-width: 0;
+}
