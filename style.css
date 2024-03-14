@@ -24,3 +24,10 @@
     border-radius: 2px;
     border-width: 0;
 }
+
+.green-button{
+    background-color: rgb(23, 220, 33);
+    color: white;
+    border-radius: 2px;
+    border-width: 0;
+}
