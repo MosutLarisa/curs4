@@ -4,3 +4,10 @@
     border-radius: 2px;
     border-width: 0;
 }
+
+.red-button{
+    background-color: rgb(189, 31, 31);
+    color: white;
+    border-radius: 2px;
+    border-width: 0;
+}
